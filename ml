@@ -13,3 +13,6 @@ import pandas as pd
 a=pd.DataFrame({'pioi':['c','d','sss']})
 b=pd.DataFrame({'lll':['33','555','777s']})
 pd.concat([a,b],axis=0)
+
+++++++++++++++++++++++++++++++++++++++++++
+https://equitybee.udemy.com/course/databricks-essentials-for-spark-developers-azure-and-aws/learn/lecture/15979874#overview
